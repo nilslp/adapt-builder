@@ -1,0 +1,1 @@
+All .scss files should be created in the SASS folder by duplicating the _lp-template.scss file
