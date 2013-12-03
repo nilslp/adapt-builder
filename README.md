@@ -1,4 +1,4 @@
 adapt-builder
 =============
 
-Adapt Builder UI
+Repository for Front End framework of Adapt Builder UI.
